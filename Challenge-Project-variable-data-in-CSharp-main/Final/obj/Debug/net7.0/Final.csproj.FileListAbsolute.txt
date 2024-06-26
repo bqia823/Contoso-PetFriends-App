@@ -1,0 +1,14 @@
+D:\学习资料\C#\Part 4\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Final\bin\Debug\net7.0\Final.exe
+D:\学习资料\C#\Part 4\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Final\bin\Debug\net7.0\Final.deps.json
+D:\学习资料\C#\Part 4\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Final\bin\Debug\net7.0\Final.runtimeconfig.json
+D:\学习资料\C#\Part 4\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Final\bin\Debug\net7.0\Final.dll
+D:\学习资料\C#\Part 4\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Final\bin\Debug\net7.0\Final.pdb
+D:\学习资料\C#\Part 4\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\学习资料\C#\Part 4\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.AssemblyInfoInputs.cache
+D:\学习资料\C#\Part 4\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.AssemblyInfo.cs
+D:\学习资料\C#\Part 4\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.csproj.CoreCompileInputs.cache
+D:\学习资料\C#\Part 4\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.dll
+D:\学习资料\C#\Part 4\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\refint\Final.dll
+D:\学习资料\C#\Part 4\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.pdb
+D:\学习资料\C#\Part 4\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\Final.genruntimeconfig.cache
+D:\学习资料\C#\Part 4\Challenge-Project-variable-data-in-CSharp-main\Challenge-Project-variable-data-in-CSharp-main\Final\obj\Debug\net7.0\ref\Final.dll
