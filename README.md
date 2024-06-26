@@ -41,6 +41,6 @@ The main menu allows the user to:
 ### Steps to Run
 1. **Clone the repository or download the source code.**
 2. **Navigate to the directory containing the source code.**
-3. **Run the application using the following command:
+3. **Run the application using the following command:**
  ```sh
 dotnet run
